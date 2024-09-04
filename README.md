@@ -6,6 +6,7 @@
 - [Flowchart](#flowchart)
 - [Process Description](#process-description)
 - [How to Use This Prompt](#how-to-use-this-prompt)
+- [Example Output](#example-output)
 - [Best Practices](#best-practices)
 - [Troubleshooting](#troubleshooting)
 - [License](#license)
@@ -104,6 +105,9 @@ A **continuous improvement loop** operates throughout this process:
 5. **Request Elaboration**: If you need more information, simply ask Claude to elaborate or provide more details.
 6. **Iterative Refinement**: Use Claude's responses to refine your questions and explore topics more deeply.
 7. **Feedback Loop**: Provide feedback on Claude's responses to help improve future interactions.
+
+## Example Output
+![Claude Example](./claude-example.png)
 
 ## Best Practices
 - **Be Specific**: The more specific your query, the more targeted Claude's response will be.
